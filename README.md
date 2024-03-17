@@ -25,4 +25,3 @@
 
   - [ ✉️ nurullah.dinc.156@gmail.com]()
   - Linkedin : [https://www.linkedin.com/in/nurullah-dinc/](https://www.linkedin.com/in/nurullah-dinc/)
-![image](https://github.com/NurullahDnc/chat-website/assets/150585098/e628b40f-9c4d-43bc-b26a-72d553f14d98)
