@@ -11,8 +11,8 @@
 
 
 ## About The Project
-
-
+ 
+ 
 
 ![Ekran görüntüsü 2024-03-17 180425](https://github.com/NurullahDnc/chat-website/assets/150585098/7a8515eb-d779-4731-bd8f-bed6878d70fd)
 
